@@ -2,7 +2,7 @@
 AI_Research_nlp
 
 
-https://www.itworld.co.kr/news/187793
+https://www.itworld.co.kr/news/187793 <br>
 https://numpy.org/
 https://www.youtube.com/watch?v=QUT1VHiLmmI
 https://pandas.pydata.org/
